@@ -1,3 +1,7 @@
 3rd note3rd note3rd note
 
 just how many 3rd notes there should be?
+
+there should be only one "3rd note" note
+
+dunno how to change it
